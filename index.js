@@ -22,8 +22,6 @@ buttons.map(button =>{
         }
       
     })
-
-
 }) 
   
 
